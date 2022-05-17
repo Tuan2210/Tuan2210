@@ -103,7 +103,7 @@
 <h3 style="border-bottom: 1px solid white">Docs - Dependencies - Databases (Triple D):<h3>
 <p align="center">
   <a href="https://stackoverflow.com/users/17666229" target="blank">
-    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/50/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color tal-revivo.png" alt="StackOverflow"/>
+    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/50/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png" alt="StackOverflow"/>
   </a>
   <img width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/W3Schools_logo.svg/512px-W3Schools_logo.svg.png"/>
   <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/50/000000/external-jsdelivr-a-free-fast-and-reliable-open-source-cdn-for-npm-and-github-logo-color-tal-revivo.png" alt="jsDelivr"/>
