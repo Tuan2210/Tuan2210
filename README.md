@@ -17,7 +17,7 @@
   </p>
 </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tuan2210" alt="tuan2210" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tuan2210&theme=radical" alt="tuan2210" /></a> </p>
 
 - ✍ I'm a student of: [INDUSTRIAL UNIVERSITY OF HOCHIMINH CITY](http://iuh.edu.vn) (IUH)
 
