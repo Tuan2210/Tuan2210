@@ -88,10 +88,6 @@
   <img src="https://img.icons8.com/nolan/50/html.png"/>
   <img src="https://img.icons8.com/nolan/50/css-filetype.png"/>
   <img src="https://img.icons8.com/nolan/50/js.png"/>
-  <!--<img src="https://img.icons8.com/color/50/000000/bootstrap.png"/>-->
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer" alt="bootstrap">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-  </a>
   <p align="center">
     <img src="https://img.icons8.com/nolan/50/java-eclipse.png"/>
     <img src="https://img.icons8.com/nolan/50/visual-studio-code-2019.png"/>
@@ -106,12 +102,28 @@
   <a href="https://stackoverflow.com/users/17666229" target="blank">
     <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/50/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png" alt="StackOverflow"/>
   </a>
-  <img width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/W3Schools_logo.svg/512px-W3Schools_logo.svg.png"/>
-  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/50/000000/external-jsdelivr-a-free-fast-and-reliable-open-source-cdn-for-npm-and-github-logo-color-tal-revivo.png" alt="jsDelivr"/>
-  <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" alt="MSSQL-Server"/>
-  <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB"/>
-  <img src="https://img.icons8.com/color/50/000000/firebase.png" alt="Firebase"/>
-  <img width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sqlite-square-icon.svg/2048px-Sqlite-square-icon.svg.png" alt="SQLite"/>
+  <a href="https://www.w3schools.com">
+    <img width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/W3Schools_logo.svg/512px-W3Schools_logo.svg.png"/>
+  </a>
+  <!--<img src="https://img.icons8.com/color/50/000000/bootstrap.png"/>-->
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer" alt="bootstrap">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
+  </a>
+  <a href="https://www.jsdelivr.com">
+    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/50/000000/external-jsdelivr-a-free-fast-and-reliable-open-source-cdn-for-npm-and-github-logo-color-tal-revivo.png" alt="jsDelivr"/>
+  </a>
+  <a href="https://docs.microsoft.com/en-us/sql/sql-server/?view=sql-server-ver15">
+    <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" alt="MSSQL-Server"/>
+  </a>
+  <a href="https://www.mongodb.com/docs">
+    <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB"/>
+  </a>
+  <a href="https://firebase.google.com/docs">
+    <img src="https://img.icons8.com/color/50/000000/firebase.png" alt="Firebase"/>
+  </a>
+  <a href="https://www.sqlite.org/docs.html">
+    <img width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sqlite-square-icon.svg/2048px-Sqlite-square-icon.svg.png" alt="SQLite"/>
+  </a>
 </p>
 
 <table style="width:100%;">
