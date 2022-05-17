@@ -116,7 +116,7 @@
 <table style="width:100%;">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tuan2210&bg_color=FFFFFF00&text_color=179fa3&layout=compact&hide=CSS&langs_count=10&custom_title=My%20used%20languages" alt="tuan2210" width="100%"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tuan2210&bg_color=FFFFFF00&text_color=179fa3&layout=compact&langs_count=10&custom_title=Most%20Used%20Languages" alt="tuan2210" width="100%"/>
       <img src="https://github-readme-stats.vercel.app/api?username=tuan2210&theme=radical&show_icons=true" alt="tuan2210" width="100%"/>
     </td>
     <td>
@@ -132,4 +132,8 @@
 </table>
 
 <!-- link auto generate code create profile github VIP !
-https://rahuldkjain.github.io/gh-profile-readme-generator/ ->>
+https://rahuldkjain.github.io/gh-profile-readme-generator/
+https://shields.io/
+https://github.com/antonkomarev/github-profile-views-counter
+https://github.com/anuraghazra/github-readme-stats/tree/master/themes
+->>
