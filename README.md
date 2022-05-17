@@ -84,7 +84,7 @@
 <h3 style="border-bottom: 1px solid white">Main Skills:<h3>
 <p align="center">
   <img src="https://img.icons8.com/nolan/50/windows-10.png"/>
-  <a href="https://figma.com"
+  <a href="https://figma.com">
     <img src="https://img.icons8.com/nolan/50/figma.png" alt="Figma"/>
   </a>
   <img src="https://img.icons8.com/nolan/50/html.png"/>
