@@ -126,7 +126,7 @@
         <!--<img src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b76112b0ebcac274b3250498e73599816f7cf51806ba8&rid=giphy.gif&ct=g" alt="dev" width="100%"/>-->
         <img src="https://camo.githubusercontent.com/fa73289736064aba480d0708da37d7aa183a8c3e2bcc2f58c54285a3bbbeecc1/68747470733a2f2f7777772e61616c7068612e6e65742f77702d636f6e74656e742f75706c6f6164732f323032302f31322f66756c6c2d737461636b2d646576656c6f706d656e742e676966" alt="" width="100%"/>
       </p>
-      <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tuan2210&theme=radical" alt="tuan2210"/></p>
+      <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tuan2210&" alt="tuan2210"/></p>
     </td>
   </tr>
 </table>
