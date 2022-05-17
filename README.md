@@ -57,26 +57,26 @@
 ## Skills:
 <p align="center">
   <img src="https://img.icons8.com/color/48/000000/gitlab.png" alt="Gitlab"/>
-  <img src="https://img.icons8.com/color/48/000000/git.png"/>
-  <img src="https://img.icons8.com/ios-filled/5/000000/github.png"/>
+  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git"/>
+  <img src="https://img.icons8.com/ios-filled/5/000000/github.png" alt="Github"/>
   <img src="https://img.icons8.com/color/48/000000/visual-studio-2019.png" alt="Visual-Studio"/>
-  <img src="https://img.icons8.com/fluency/50/000000/python.png"/>
+  <img src="https://img.icons8.com/fluency/50/000000/python.png" alt="Python"/>
   <img width="45px" src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_60,h_60/https://dashboard.snapcraft.io/site_media/appmedia/2021/10/weka.png" alt="Weka"/>
-  <img src="https://img.icons8.com/color/50/000000/java-coffee-cup-logo--v1.png"/>
-  <img src="https://img.icons8.com/color/50/000000/spring-logo.png" alt="spring-framework"/>
-  <img src="https://img.icons8.com/officexs/50/000000/spring-logo.png" alt="spring-boot"/>
-  <img width="50px" src="https://vstbro.com/wp-content/uploads/2021/05/44114706-9c72dd08-9fd1-11e8-8d9d-6d9d651c75ad.png" alt="postman"/>
-  <img src="https://img.icons8.com/color/50/000000/old-vmware-logo.png"/>
-  <img src="https://img.icons8.com/nolan/50/linux--v2.png"/>
-  <img src="https://img.icons8.com/color/50/000000/ubuntu--v1.png"/>
+  <img src="https://img.icons8.com/color/50/000000/java-coffee-cup-logo--v1.png" alt="Java"/>
+  <img src="https://img.icons8.com/color/50/000000/spring-logo.png" alt="Spring-framework"/>
+  <img src="https://img.icons8.com/officexs/50/000000/spring-logo.png" alt="Spring-boot"/>
+  <img width="50px" src="https://vstbro.com/wp-content/uploads/2021/05/44114706-9c72dd08-9fd1-11e8-8d9d-6d9d651c75ad.png" alt="Postman"/>
+  <img src="https://img.icons8.com/color/50/000000/old-vmware-logo.png" alt="VMWare"/>
+  <img src="https://img.icons8.com/nolan/50/linux--v2.png" alt="Linux"/>
+  <img src="https://img.icons8.com/color/50/000000/ubuntu--v1.png" alt="Ubuntu"/>
   <img src="https://img.icons8.com/color/50/000000/kotlin.png" alt="Kolin"/>
   <a href="https://codeforces.com/profile/dinhtuan" target="blank" alt="Codeforces">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="dinhtuan" height="30" width="40" />
+    <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png"/>
   </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer" alt="C">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
   </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer" alt="C++">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
   </a>
 </p>
@@ -90,7 +90,7 @@
   <img src="https://img.icons8.com/nolan/50/css-filetype.png"/>
   <img src="https://img.icons8.com/nolan/50/js.png"/>
   <!--<img src="https://img.icons8.com/color/50/000000/bootstrap.png"/>-->
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer" alt="bootstrap">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
   </a>
   <p align="center">
