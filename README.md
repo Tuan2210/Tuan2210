@@ -1,5 +1,5 @@
 
-<h1 align="center"><b style="color: cyan;">Hi <img width="40px" src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif"/>, I'm Tuan Dinh from Vietnam<b> <img src="https://img.icons8.com/external-vitaliy-gorbachev-flat-vitaly-gorbachev/35/000000/external-vietnam-flags-vitaliy-gorbachev-flat-vitaly-gorbachev.png"/>
+<h1 align="center"><b style="color: cyan;">Hi<img width="40px" src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif"/>, I'm Tuan Dinh from Vietnam<b> <img src="https://img.icons8.com/external-vitaliy-gorbachev-flat-vitaly-gorbachev/35/000000/external-vietnam-flags-vitaliy-gorbachev-flat-vitaly-gorbachev.png"/>
 </h1>
 
 <p align="center"
@@ -27,7 +27,7 @@
 
 - ⚡ Fun fact: I'm a fan of Marvel, DC, Dragon Ball, Naruto - I draw what i like in free-time
 ##  Contact more:
-<h3 style="margin-left: 20px;"><i>🌎 In global</i></h3>
+<h3 style="margin-left: 20px;"><i>🌎 In Global</i></h3>
 
 <p align="center">
   <a href="https://www.fb.com/ronbytuan" alt="Facebook">
