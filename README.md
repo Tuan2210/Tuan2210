@@ -17,6 +17,8 @@
   </p>
 </p>
 
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tuan2210" alt="tuan2210" /></a> </p>
+
 - ✍ I'm a student of: [INDUSTRIAL UNIVERSITY OF HOCHIMINH CITY](http://iuh.edu.vn) (IUH)
 
 - 🌱 I’m currently learning **Spring**
@@ -68,6 +70,15 @@
   <img src="https://img.icons8.com/nolan/50/linux--v2.png"/>
   <img src="https://img.icons8.com/color/50/000000/ubuntu--v1.png"/>
   <img src="https://img.icons8.com/color/50/000000/kotlin.png" alt="Kolin"/>
+  <a href="https://codeforces.com/profile/dinhtuan" target="blank" alt="Codeforces">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="dinhtuan" height="30" width="40" />
+  </a>
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
+  </a>
 </p>
  
 <h3 style="border-bottom: 1px solid white">Main Skills:<h3>
@@ -78,7 +89,10 @@
   <img src="https://img.icons8.com/nolan/50/html.png"/>
   <img src="https://img.icons8.com/nolan/50/css-filetype.png"/>
   <img src="https://img.icons8.com/nolan/50/js.png"/>
-  <img src="https://img.icons8.com/color/50/000000/bootstrap.png"/>
+  <!--<img src="https://img.icons8.com/color/50/000000/bootstrap.png"/>-->
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
+  </a>
   <p align="center">
     <img src="https://img.icons8.com/nolan/50/android-studio--v3.png"/>
     <img src="https://img.icons8.com/nolan/50/android-studio--v2.png"/>
@@ -88,7 +102,9 @@
   
 <h3 style="border-bottom: 1px solid white">Docs - Dependencies - Databases (Triple D):<h3>
 <p align="center">
-  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/50/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png" alt="StackOverflow"/>
+  <a href="https://stackoverflow.com/users/17666229" target="blank">
+    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/50/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color tal-revivo.png" alt="StackOverflow"/>
+  </a>
   <img width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/W3Schools_logo.svg/512px-W3Schools_logo.svg.png"/>
   <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/50/000000/external-jsdelivr-a-free-fast-and-reliable-open-source-cdn-for-npm-and-github-logo-color-tal-revivo.png" alt="jsDelivr"/>
   <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" alt="MSSQL-Server"/>
@@ -110,6 +126,7 @@
         <!--<img src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b76112b0ebcac274b3250498e73599816f7cf51806ba8&rid=giphy.gif&ct=g" alt="dev" width="100%"/>-->
         <img src="https://camo.githubusercontent.com/fa73289736064aba480d0708da37d7aa183a8c3e2bcc2f58c54285a3bbbeecc1/68747470733a2f2f7777772e61616c7068612e6e65742f77702d636f6e74656e742f75706c6f6164732f323032302f31322f66756c6c2d737461636b2d646576656c6f706d656e742e676966" alt="" width="100%"/>
       </p>
+      <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tuan2210&" alt="tuan2210"/></p>
     </td>
   </tr>
 </table>
