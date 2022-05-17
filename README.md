@@ -84,8 +84,7 @@
 <h3 style="border-bottom: 1px solid white">Main Skills:<h3>
 <p align="center">
   <img src="https://img.icons8.com/nolan/50/windows-10.png"/>
-  <img src="https://img.icons8.com/nolan/50/java-eclipse.png"/>
-  <img src="https://img.icons8.com/nolan/50/visual-studio-code-2019.png"/>
+  <img src="https://img.icons8.com/nolan/50/figma.png" alt="Figma"/>
   <img src="https://img.icons8.com/nolan/50/html.png"/>
   <img src="https://img.icons8.com/nolan/50/css-filetype.png"/>
   <img src="https://img.icons8.com/nolan/50/js.png"/>
@@ -94,9 +93,11 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
   </a>
   <p align="center">
+    <img src="https://img.icons8.com/nolan/50/java-eclipse.png"/>
+    <img src="https://img.icons8.com/nolan/50/visual-studio-code-2019.png"/>
     <img src="https://img.icons8.com/nolan/50/android-studio--v3.png"/>
     <img src="https://img.icons8.com/nolan/50/android-studio--v2.png"/>
-    <img src="https://img.icons8.com/nolan/50/figma.png" alt="Figma"/>
+    
   </p>
 </p>
   
