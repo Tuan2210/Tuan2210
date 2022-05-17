@@ -109,7 +109,7 @@
   </a>
   <!--<img src="https://img.icons8.com/color/50/000000/bootstrap.png"/>-->
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer" alt="bootstrap">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="50"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="50px"/>
   </a>
   <a href="https://www.jsdelivr.com">
     <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/50/000000/external-jsdelivr-a-free-fast-and-reliable-open-source-cdn-for-npm-and-github-logo-color-tal-revivo.png" alt="jsDelivr"/>
