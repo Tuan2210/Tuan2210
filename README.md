@@ -40,6 +40,9 @@
   <a href="https://mail.google.com/mail/u/0/#inbox" alt="Email">
     <img src="https://img.icons8.com/nolan/50/gmail-new.png"/>
   </a>
+  <a href="https://www.pinterest.com/dtuan9796" alt="Pinterest">
+    <img src="https://img.icons8.com/nolan/50/pinterest.png"/>
+  </a>
 </p>
   
 <h3 style="margin-left: 20px;"><i><img width="25px" src="https://img.icons8.com/color/40/000000/vietnam-circular.png"/> In Vietnam<i></h3>
