@@ -26,7 +26,9 @@
 - 📫 How to reach me: quangtuan496@gmail.com
 
 - ⚡ Fun fact: I'm a fan of Marvel, DC, Dragon Ball, Naruto - I draw what i like in free-time
-##  Contact more:
+
+##
+Contact more:
 <h3 style="margin-left: 20px;"><i>🌎 In Global</i></h3>
 
 <p align="center">
@@ -54,7 +56,8 @@
     </a>
   </p>
 
-## Skills:
+##
+Skills:
 <p align="center">
   <img src="https://img.icons8.com/color/48/000000/gitlab.png" alt="Gitlab"/>
   <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git"/>
