@@ -28,7 +28,7 @@
 - ⚡ Fun fact: I'm a fan of Marvel, DC, Dragon Ball, Naruto - I draw what i like in free-time
 
 ##
-Contact more:
+<h2><b>Contact more:</b></h2>
 <h3 style="margin-left: 20px;"><i>🌎 In Global</i></h3>
 
 <p align="center">
@@ -57,7 +57,7 @@ Contact more:
   </p>
 
 ##
-Skills:
+<h2><b>Skills:</b></h2>
 <p align="center">
   <img src="https://img.icons8.com/color/48/000000/gitlab.png" alt="Gitlab"/>
   <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git"/>
