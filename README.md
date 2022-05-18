@@ -29,7 +29,7 @@
 
 ##
 <h2><b>Contact more:</b></h2>
-<h3 style="margin-left: 20px;"><i>🌎 In Global</i></h3>
+<h3 style="margin-left: 20px;"><i>&nbsp;&nbsp;🌎 In Global</i></h3>
 
 <p align="center">
   <a href="https://www.fb.com/ronbytuan" alt="Facebook">
@@ -49,7 +49,7 @@
   </a>
 </p>
   
-<h3 style="margin-left: 20px;"><i><img width="25px" src="https://img.icons8.com/color/40/000000/vietnam-circular.png"/> In Vietnam<i></h3>
+<h3 style="margin-left: 20px;"><i>&nbsp;&nbsp;<img width="25px" src="https://img.icons8.com/color/40/000000/vietnam-circular.png"/> In Vietnam<i></h3>
   <p align="center">
     <a href="https://chat.zalo.me" alt="Zalo">
       <img src="https://img.icons8.com/dusk/50/000000/zalo.png"/>
@@ -84,7 +84,7 @@
   </a>
 </p>
  
-<h3 style="border-bottom: 1px solid white">Main Skills:<h3>
+<h3 style="border-bottom: 1px solid white">&nbsp;&nbsp;Main Skills:<h3>
 <p align="center">
   <img src="https://img.icons8.com/nolan/50/windows-10.png"/>
   <a href="https://figma.com">
