@@ -132,7 +132,7 @@
   <tr>
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tuan2210&theme=radical&show_icons=true&layout=compact&langs_count=10&custom_title=Most%20Used%20Languages" alt="tuan2210" width="100%"/>
-      <img src="https://github-readme-stats.vercel.app/api?username=tuan2210&theme=radical&show_icons=true" alt="tuan2210" width="100%"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=tuan2210&theme=radical&show_icons=true&disable_animations=false" alt="tuan2210" width="100%"/>
     </td>
     <td>
       <p align="center"> 
