@@ -59,8 +59,8 @@
 ##
 <h2><b>Skills:</b></h2>
 <p align="center">
-  <img src="https://img.icons8.com/color/48/000000/gitlab.png" alt="Gitlab"/>
-  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git"/>
+  <!--<img src="https://img.icons8.com/color/48/000000/gitlab.png" alt="Gitlab"/>
+  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git"/>-->
   <img src="https://img.icons8.com/ios-filled/5/000000/github.png" alt="Github"/>
   <img src="https://img.icons8.com/color/48/000000/visual-studio-2019.png" alt="Visual-Studio"/>
   <img src="https://img.icons8.com/fluency/50/000000/python.png" alt="Python"/>
