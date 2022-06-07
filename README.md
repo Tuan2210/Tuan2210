@@ -1,5 +1,5 @@
 
-<h1 align="center"><b style="color: cyan;">Hi, I'm Tuan Dinh from Vietnam<b> <img src="https://img.icons8.com/external-vitaliy-gorbachev-flat-vitaly-gorbachev/35/000000/external-vietnam-flags-vitaliy-gorbachev-flat-vitaly-gorbachev.png"/>
+<h1 align="center"><b style="color: cyan;">Hi <img width="40" height="40" src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif"/>, I'm Tuan Dinh from Vietnam<b> <img src="https://img.icons8.com/external-vitaliy-gorbachev-flat-vitaly-gorbachev/35/000000/external-vietnam-flags-vitaliy-gorbachev-flat-vitaly-gorbachev.png"/>
 </h1>
 
 <p align="center"
