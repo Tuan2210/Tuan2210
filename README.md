@@ -5,7 +5,7 @@
 <p align="center"
   <span>
   <!--<img width="300px" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/9531af81-fd67-4a76-9042-8297e46fd740/decco92-d1f3f423-d3d3-4b59-8ca5-136fb51feac7.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzk1MzFhZjgxLWZkNjctNGE3Ni05MDQyLTgyOTdlNDZmZDc0MFwvZGVjY285Mi1kMWYzZjQyMy1kM2QzLTRiNTktOGNhNS0xMzZmYjUxZmVhYzcuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.yhbfKR3h62Iol58eD21nulbkBqtVPWeS2gHhbbEzfYw"/> Gogeta Blue -->
-  <img width="300px" src="https://i.pinimg.com/originals/a8/d5/ba/a8d5baeb06fc12c77ccefd0121010d20.gif" alt="IronMan"/>
+  <img width="300" src="https://i.pinimg.com/originals/a8/d5/ba/a8d5baeb06fc12c77ccefd0121010d20.gif" alt="IronMan"/>
   </span>
 </p>
   
