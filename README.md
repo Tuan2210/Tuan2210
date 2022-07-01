@@ -10,7 +10,7 @@
 </p>
   
 <p align="center">
-  <img src="https://badges.pufler.dev/repos/Tuan2210" alt="Tuan2210's repos">
+  <!--<img src="https://badges.pufler.dev/repos/Tuan2210" alt="Tuan2210's repos">-->
   <img src="https://komarev.com/ghpvc/?username=tuan2210&color=red&style=plastic">
   <p align="center">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/Tuan2210?style=social">
