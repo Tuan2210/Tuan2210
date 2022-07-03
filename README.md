@@ -27,7 +27,7 @@
 
 - 📫 How to reach me: quangtuan496@gmail.com
 
-- ⚡ Fun fact: I'm a fan of Marvel, DC, Dragon Ball, Naruto - I draw what i like in free-time
+- ⚡ Fun fact: I'm a fan of Marvel, DC, Dragon Ball, Naruto - I draw what I like in free-time
 
 ##
 <h2><b>Contact more:</b></h2>
