@@ -49,6 +49,9 @@
   <a href="https://www.pinterest.com/dtuan9796" alt="Pinterest">
     <img src="https://img.icons8.com/nolan/50/pinterest.png"/>
   </a>
+  <a href="https://www.linkedin.com/in/tu%E1%BA%A5n-%C4%91inh-091526247/" alt="Linkedin">
+    <img src="https://img.icons8.com/nolan/50/linkedin-circled.png"/>
+  </a>
 </p>
   
 <h3 style="margin-left: 20px;"><i>&nbsp;&nbsp;&nbsp;&nbsp;<img width="25px" src="https://img.icons8.com/color/40/000000/vietnam-circular.png"/> In Vietnam<i></h3>
