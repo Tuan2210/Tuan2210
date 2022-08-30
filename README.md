@@ -23,7 +23,7 @@
 
 - ✍ I'm a student of: [INDUSTRIAL UNIVERSITY OF HOCHIMINH CITY](http://iuh.edu.vn) (IUH)
 
-- 🌱 I’m currently learning **Spring**
+- 🌱 I’m currently learning **Spring, React, NodeJS**
 
 - 📫 How to reach me: quangtuan496@gmail.com
 
