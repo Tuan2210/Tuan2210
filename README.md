@@ -145,6 +145,9 @@
   <a href="https://expo.dev">
     <img src="https://play-lh.googleusercontent.com/algsmuhitlyCU_Yy3IU7-7KYIhCBwx5UJG4Bln-hygBjjlUVCiGo1y8W5JNqYm9WW3s" width="50" height="50" alt="expo go"/>
   </a>
+  <a href="https://docs.docker.com">
+    <img src="https://img.icons8.com/color/50/000000/docker.png" alt="docker"/>
+  </a>
 </p>
 
 <table style="width:100%;">
