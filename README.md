@@ -23,7 +23,7 @@
 
 - ✍ I'm a student of: [INDUSTRIAL UNIVERSITY OF HOCHIMINH CITY](http://iuh.edu.vn) (IUH)
 
-- 🌱 I’m currently learning **Spring, React, NodeJS**
+- 🌱 I’m currently learning **Spring, React, NodeJS, Expo**
 
 - 📫 How to reach me: quangtuan496@gmail.com
 
@@ -98,6 +98,8 @@
   <img src="https://img.icons8.com/nolan/50/html.png"/>
   <img src="https://img.icons8.com/nolan/50/css-filetype.png"/>
   <img src="https://img.icons8.com/nolan/50/js.png"/>
+  <img src="https://img.icons8.com/nolan/50/react-native.png"/>
+  <img src="https://img.icons8.com/nolan/50/backend-development.png" alt="backend dev"/>
   <p align="center">
     <img src="https://img.icons8.com/nolan/50/java-eclipse.png"/>
     <img src="https://img.icons8.com/nolan/50/visual-studio-code-2019.png"/>
@@ -133,6 +135,15 @@
   </a>
   <a href="https://www.sqlite.org/docs.html">
     <img width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sqlite-square-icon.svg/2048px-Sqlite-square-icon.svg.png" alt="SQLite"/>
+  </a>
+  <a href="https://www.npmjs.com">
+    <img src="https://img.icons8.com/color/50/000000/npm.png" alt="npm"/>
+  </a>
+  <a href="https://yarnpkg.com">
+    <img src="https://www.pikpng.com/pngl/b/84-844380_yarn-global-packages-not-working-yarn-package-manager.png" width="100" height="50" alt="yarn"/>
+  </a>
+  <a href="https://expo.dev">
+    <img src="https://play-lh.googleusercontent.com/algsmuhitlyCU_Yy3IU7-7KYIhCBwx5UJG4Bln-hygBjjlUVCiGo1y8W5JNqYm9WW3s" width="50" height="50" alt="expo go"/>
   </a>
 </p>
 
