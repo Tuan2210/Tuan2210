@@ -53,6 +53,11 @@
     <img src="https://img.icons8.com/nolan/50/linkedin-circled.png"/>
   </a>
 </p>
+<p align="center">
+  <a href="https://dev.to/tuan2210" alt="DevTo">
+    <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--R9qwOwpC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/78hs31fax49uwy6kbxyw.png" width="55px" height="55px"/>
+  </a>
+</p>
   
 <h3 style="margin-left: 20px;"><i>&nbsp;&nbsp;&nbsp;&nbsp;<img width="25px" src="https://img.icons8.com/color/40/000000/vietnam-circular.png"/> In Vietnam<i></h3>
   <p align="center">
