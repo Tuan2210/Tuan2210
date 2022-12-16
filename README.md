@@ -163,11 +163,11 @@
   <a href="https://docs.docker.com">
     <img src="https://img.icons8.com/color/50/000000/docker.png" alt="docker"/>
   </a>
-  <a href="https://aws.amazon.com">
-    <img src="https://img.icons8.com/color/50/000000/amazon-web-services.png" alt="AWS"/>
-  </a>
   <a href="https://www.mysql.com">
     <img src="https://img.icons8.com/fluency/50/null/mysql-logo.png" alt="mysql"/>
+  </a>
+  <a href="https://aws.amazon.com">
+    <img src="https://logos-world.net/wp-content/uploads/2021/08/Amazon-Web-Services-AWS-Logo.png" width="60" height="50" alt="AWS"/>
   </a>
 </p>
 
