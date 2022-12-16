@@ -51,6 +51,9 @@
   <a href="https://mail.google.com/mail/u/0/#inbox" alt="Email">
     <img src="https://img.icons8.com/nolan/50/gmail-new.png"/>
   </a>
+  <a href="https://www.instagram.com/ronby_2210" alt="Instagram">
+    <img src="https://img.icons8.com/nolan/50/instagram-new.png"/>
+  </a>
   <a href="https://www.pinterest.com/dtuan9796" alt="Pinterest">
     <img src="https://img.icons8.com/nolan/50/pinterest.png"/>
   </a>
@@ -113,9 +116,9 @@
   <p align="center">
     <img src="https://img.icons8.com/nolan/50/java-eclipse.png"/>
     <img src="https://img.icons8.com/nolan/50/visual-studio-code-2019.png"/>
+    <img src="https://img.icons8.com/plasticine/55/null/intellij-idea.png"/>
     <img src="https://img.icons8.com/nolan/50/android-studio--v3.png"/>
     <img src="https://img.icons8.com/nolan/50/android-studio--v2.png"/>
-    
   </p>
 </p>
   
