@@ -1,5 +1,5 @@
 
-<h1 align="center"><b style="color: cyan;">Hi<img width="40" height="40" src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif"/>, I'm Tuan Dinh from Vietnam<b> <img src="https://img.icons8.com/external-vitaliy-gorbachev-flat-vitaly-gorbachev/35/000000/external-vietnam-flags-vitaliy-gorbachev-flat-vitaly-gorbachev.png"/>
+<h1 align="center"><b style="color: cyan;">Hi<img width="40" height="40" src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif"/>, I'm Tuan Dinh from Vietnam<b> <img src="https://img.icons8.com/external-vitaliy-gorbachev-flat-vitaly-gorbachev/35/null/external-vietnam-flags-vitaliy-gorbachev-flat-vitaly-gorbachev.png" alt="flagVN"/>
 </h1>
 
 <p align="center">
@@ -65,12 +65,18 @@
   <a href="https://dev.to/tuan2210" alt="DevTo">
     <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--R9qwOwpC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/78hs31fax49uwy6kbxyw.png" width="55px" height="55px"/>
   </a>
+  <a href="https://www.freecodecamp.org/TuanDinh" alt="FreeCodeCamp">
+    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/55/000000/external-freecodecamp-a-non-profit-organization-that-consists-of-an-interactive-learning-web-platform-logo-color-tal-revivo.png"/>
+  </a>
+  <a href="https://www.hackerrank.com/quangtuan496" alt="Hackerrank">
+    <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/45/null/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-shadow-tal-revivo.png"/>
+  </a>
 </p>
   
-<h3 style="margin-left: 20px;"><i>&nbsp;&nbsp;&nbsp;&nbsp;<img width="25px" src="https://img.icons8.com/color/40/000000/vietnam-circular.png"/> In Vietnam<i></h3>
+<h3 style="margin-left: 20px;"><i>&nbsp;&nbsp;&nbsp;&nbsp;<img width="25" src="https://img.icons8.com/color/40/null/vietnam-circular.png"/> In Vietnam<i></h3>
   <p align="center">
     <a href="https://chat.zalo.me" alt="Zalo">
-      <img src="https://img.icons8.com/dusk/50/000000/zalo.png"/>
+      <img src="https://img.icons8.com/color/50/null/zalo.png"/>
     </a>
   </p>
 
@@ -84,8 +90,8 @@
   <img src="https://img.icons8.com/fluency/50/000000/python.png" alt="Python"/>
   <img width="45px" src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_60,h_60/https://dashboard.snapcraft.io/site_media/appmedia/2021/10/weka.png" alt="Weka"/>
   <img src="https://img.icons8.com/color/50/000000/java-coffee-cup-logo--v1.png" alt="Java"/>
-  <img src="https://img.icons8.com/color/50/000000/spring-logo.png" alt="Spring-framework"/>
-  <img src="https://img.icons8.com/officexs/50/000000/spring-logo.png" alt="Spring-boot"/>
+  <img src="https://img.icons8.com/color/50/null/spring-logo.png" alt="Spring-framework"/>
+  <img src="https://img.icons8.com/office/50/000000/spring-logo.png" alt="Spring-boot"/>
   <img width="50px" src="https://vstbro.com/wp-content/uploads/2021/05/44114706-9c72dd08-9fd1-11e8-8d9d-6d9d651c75ad.png" alt="Postman"/>
   <img src="https://img.icons8.com/color/50/000000/old-vmware-logo.png" alt="VMWare"/>
   <img src="https://img.icons8.com/nolan/50/linux--v2.png" alt="Linux"/>
@@ -125,7 +131,7 @@
 <h3 style="border-bottom: 1px solid white">&nbsp;&nbsp;&nbsp;&nbsp;👉 Docs - Dependencies - Databases (Triple D):<h3>
 <p align="center">
   <a href="https://stackoverflow.com/users/17666229" target="blank">
-    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/50/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png" alt="StackOverflow"/>
+    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/50/null/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png" alt="StackOverflow"/>
   </a>
   <a href="https://www.w3schools.com">
     <img width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/W3Schools_logo.svg/512px-W3Schools_logo.svg.png"/>
@@ -135,7 +141,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="50px" height="50px"/>
   </a>
   <a href="https://www.jsdelivr.com">
-    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/50/000000/external-jsdelivr-a-free-fast-and-reliable-open-source-cdn-for-npm-and-github-logo-color-tal-revivo.png" alt="jsDelivr"/>
+    <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/null/external-jsdelivr-a-free-fast-and-reliable-open-source-cdn-for-npm-and-github-logo-shadow-tal-revivo.png" alt="jsDelivr"/>
   </a>
   <a href="https://docs.microsoft.com/en-us/sql/sql-server/?view=sql-server-ver15">
     <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" alt="MSSQL-Server"/>
@@ -152,7 +158,7 @@
     <img width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sqlite-square-icon.svg/2048px-Sqlite-square-icon.svg.png" alt="SQLite"/>
   </a>
   <a href="https://www.npmjs.com">
-    <img src="https://img.icons8.com/color/50/000000/npm.png" alt="npm"/>
+    <img src="https://img.icons8.com/color/50/null/npm.png" alt="npm"/>
   </a>
   <a href="https://yarnpkg.com">
     <img src="https://www.pikpng.com/pngl/b/84-844380_yarn-global-packages-not-working-yarn-package-manager.png" width="100" height="50" alt="yarn"/>
