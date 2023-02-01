@@ -86,7 +86,7 @@
   <!--<img src="https://img.icons8.com/color/48/000000/gitlab.png" alt="Gitlab"/>
   <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git"/>-->
   <img src="https://img.icons8.com/ios-filled/5/000000/github.png" alt="Github"/>
-  <img src="https://img.icons8.com/color/48/000000/visual-studio-2019.png" alt="Visual-Studio"/>
+  <img src="https://img.icons8.com/color/50/null/visual-studio--v1.png" alt="Visual-Studio"/>
   <img src="https://img.icons8.com/fluency/50/null/python.png" alt="Python"/>
   <img width="45px" src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_60,h_60/https://dashboard.snapcraft.io/site_media/appmedia/2021/10/weka.png" alt="Weka"/>
   <img src="https://img.icons8.com/color/50/000000/java-coffee-cup-logo--v1.png" alt="Java"/>
