@@ -28,7 +28,7 @@
 
 - ✍ I'm a student of: [INDUSTRIAL UNIVERSITY OF HOCHIMINH CITY](http://iuh.edu.vn) (IUH)
 
-- 🌱 I’m currently learning **TypeScript, Angular**
+- 🌱 I’m currently learning **TypeScript, Angular, Python**
 
 - 📫 How to reach me: quangtuan496@gmail.com
 
