@@ -161,7 +161,7 @@
     <img src="https://img.icons8.com/color/50/null/npm.png" alt="npm"/>
   </a>
   <a href="https://yarnpkg.com">
-    <img src="https://www.pikpng.com/pngl/b/84-844380_yarn-global-packages-not-working-yarn-package-manager.png" width="100" height="50" alt="yarn"/>
+    <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_yarn_icon_130052.png" width="50" height="50" alt="yarn"/>
   </a>
   <a href="https://expo.dev">
     <img src="https://play-lh.googleusercontent.com/algsmuhitlyCU_Yy3IU7-7KYIhCBwx5UJG4Bln-hygBjjlUVCiGo1y8W5JNqYm9WW3s" width="50" height="50" alt="expo go"/>
