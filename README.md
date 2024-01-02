@@ -7,13 +7,14 @@
 <!--   <img width="300" src="https://i.pinimg.com/originals/a8/d5/ba/a8d5baeb06fc12c77ccefd0121010d20.gif" alt="IronMan"/> -->
 <!--     <img width="300" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/c38cf3106753383.5f974c0260752.gif" alt="GhostHalloween"/> -->
 <!--     <img width="300" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbml3MXJjczBncnBzbThvaHU1Ymo2Y2FmaDNzeHJkZzJydnVtejFvdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/bcDyG2VqA1EeWbS2qm/giphy.gif" alt="ghost"/> -->
-    <img width="500" src="https://img1.picmix.com/output/stamp/normal/8/4/5/1/1571548_519c3.gif" alt="santa-claus"/>
+<!--     <img width="500" src="https://img1.picmix.com/output/stamp/normal/8/4/5/1/1571548_519c3.gif" alt="santa-claus"/> -->
+      <img width="450" src="https://i.pinimg.com/originals/72/7f/40/727f40d441ae03b2176c10f7b3267e6b.gif" alt="Shenron-DB"
   </span>
 </p>
 
 <span align="center">
-  <img src="https://camo.githubusercontent.com/21fad8dfb3d1d84d963f5b6d0e63fc2b64a13268a13e8819b5adaf89429d2652/68747470733a2f2f7370792d66616d696c792e6e65742f6173736574732f696d672f7370656369616c2f616e79612f32332e706e67" width="55" height="55" align="left" alt="AnyaLeft">
-  <img src="https://camo.githubusercontent.com/8f9071377551476875d0f0b0d29f4d0dd33b7698fb64e342e79981585e6e67a3/68747470733a2f2f7370792d66616d696c792e6e65742f6173736574732f696d672f7370656369616c2f616e79612f31352e706e67" width="55" height="55" align="right" alt="AnyaRight">
+  <img src="https://custom-doodle.com/wp-content/uploads/doodle/pop-cat-meme/pop-cat-meme-doodle.gif" width="55" height="55" align="left" alt="Left">
+  <img src="https://camo.githubusercontent.com/8f9071377551476875d0f0b0d29f4d0dd33b7698fb64e342e79981585e6e67a3/68747470733a2f2f7370792d66616d696c792e6e65742f6173736574732f696d672f7370656369616c2f616e79612f31352e706e67" width="55" height="55" align="right" alt="Right">
 </span>
   
 <p align="center">
