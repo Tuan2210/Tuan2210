@@ -14,7 +14,7 @@
 
 <span align="center">
   <img src="https://custom-doodle.com/wp-content/uploads/doodle/pop-cat-meme/pop-cat-meme-doodle.gif" width="55" height="55" align="left" alt="Left">
-  <img src="https://camo.githubusercontent.com/8f9071377551476875d0f0b0d29f4d0dd33b7698fb64e342e79981585e6e67a3/68747470733a2f2f7370792d66616d696c792e6e65742f6173736574732f696d672f7370656369616c2f616e79612f31352e706e67" width="55" height="55" align="right" alt="Right">
+  <img src="https://i.giphy.com/KB1GG8B346PxkRwc6B.webp" width="55" height="55" align="right" alt="Right">
 </span>
   
 <p align="center">
