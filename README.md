@@ -29,6 +29,8 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tuan2210&theme=radical" alt="tuan2210" /></a> </p>
 
+- 📄 My <a href="https://portfolio-dinh-quang-tuan.onrender.com/">portfolio</a>
+
 - ✍ I'm a graduated student from [INDUSTRIAL UNIVERSITY OF HOCHIMINH CITY](http://iuh.edu.vn) (IUH)
 
 - 🌱 I’m currently learning **TypeScript, Angular, Python**
