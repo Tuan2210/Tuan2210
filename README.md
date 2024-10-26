@@ -97,7 +97,8 @@
   <img src="https://img.icons8.com/color/50/000000/java-coffee-cup-logo--v1.png" alt="Java"/>
   <img src="https://img.icons8.com/color/50/null/spring-logo.png" alt="Spring-framework"/>
   <img src="https://img.icons8.com/office/50/000000/spring-logo.png" alt="Spring-boot"/>
-  <img width="50px" src="https://vstbro.com/wp-content/uploads/2021/05/44114706-9c72dd08-9fd1-11e8-8d9d-6d9d651c75ad.png" alt="Postman"/>
+<!--   <img width="50px" src="https://vstbro.com/wp-content/uploads/2021/05/44114706-9c72dd08-9fd1-11e8-8d9d-6d9d651c75ad.png" alt="Postman"/> -->
+  <img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png" alt="external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo"/>
   <img src="https://img.icons8.com/color/50/000000/old-vmware-logo.png" alt="VMWare"/>
   <img src="https://img.icons8.com/nolan/50/linux--v2.png" alt="Linux"/>
   <img src="https://img.icons8.com/color/50/000000/ubuntu--v1.png" alt="Ubuntu"/>
