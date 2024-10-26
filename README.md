@@ -125,6 +125,9 @@
   <img src="https://img.icons8.com/nolan/50/js.png"/>
   <img src="https://img.icons8.com/nolan/50/react-native.png"/>
   <img src="https://img.icons8.com/nolan/50/backend-development.png" alt="backend dev"/>
+  <a href="https://vite.dev/guide">
+    <img width="48" height="48" src="https://img.icons8.com/fluency/48/vite.png" alt="vite"/>
+  </a>
   <p align="center">
     <img src="https://img.icons8.com/nolan/50/java-eclipse.png"/>
     <img src="https://img.icons8.com/nolan/50/visual-studio-code-2019.png"/>
@@ -142,9 +145,11 @@
   <a href="https://www.w3schools.com">
     <img width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/W3Schools_logo.svg/512px-W3Schools_logo.svg.png"/>
   </a>
-  <!--<img src="https://img.icons8.com/color/50/000000/bootstrap.png"/>-->
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer" alt="bootstrap">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="50px" height="50px"/>
+    <img width="48" height="48" src="https://img.icons8.com/color/48/bootstrap--v2.png" alt="bootstrap--v2"/>
+  </a>
+  <a href="https://tailwindcss.com/docs/installation" target="_blank" rel="noreferrer" alt="tailwindcss">
+    <img width="48" height="48" src="https://img.icons8.com/color/48/tailwindcss.png" alt="tailwindcss"/>
   </a>
   <a href="https://www.jsdelivr.com">
     <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/null/external-jsdelivr-a-free-fast-and-reliable-open-source-cdn-for-npm-and-github-logo-shadow-tal-revivo.png" alt="jsDelivr"/>
